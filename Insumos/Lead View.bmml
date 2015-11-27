@@ -1,0 +1,86 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="993" measuredH="1073" mockupW="942" mockupH="1069">
+  <controls>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="51" y="4" w="942" h="954" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Libera%E7%E3o%20de%20Exame%0Ahttp%3A//LiberaExame.csp</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="66" y="167" w="-1" h="-1" measuredW="166" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5E%20Dados%20Demogr%E1ficos</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="67" y="103" w="217" h="-1" measuredW="164" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Nome%20do%20Paciente</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="68" y="89" w="-1" h="-1" measuredW="34" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>12</size>
+        <text>Laudo</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::HRule" x="63" y="293" w="893" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="66" y="302" w="156" h="-1" measuredW="64" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5E%20Exame</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::HRule" x="63" y="424" w="893" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="66" y="432" w="197" h="-1" measuredW="92" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5E%20Analizador</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::HRule" x="70" y="558" w="893" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="66" y="564" w="197" h="-1" measuredW="151" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%5E%20Resultado%20Anterior</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::HRule" x="67" y="689" w="893" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::HRule" x="70" y="973" w="893" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::HRule" x="58" y="158" w="899" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::HRule" x="70" y="1063" w="893" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::HRule" x="70" y="812" w="893" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16744448</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

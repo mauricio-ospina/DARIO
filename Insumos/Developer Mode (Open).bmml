@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1756" measuredH="1170" mockupW="1658" mockupH="1163">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="98" y="7" w="1444" h="1163" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Salesforce%20CRM%0Ahttps%3A//c.na15.visual.force.com/apex/OpportunityView%3Fid%3Da0Vi0000000wfQAEAY</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="1360" y="103" w="149" h="-1" measuredW="71" measuredH="24" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>GovBD</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="1259" y="99" w="-1" h="-1" measuredW="78" measuredH="26" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>force.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="104" y="122" w="1420" h="1033" measuredW="543" measuredH="100" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>4</selectedIndex>
+        <tabVPosition>top</tabVPosition>
+        <text>Home%2C%20Leads%2C%20Accounts%2C%20Contacts%2C%20Opportunities%2C%20Reports%2C%20Dashboards%2C%20Documents</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::LinkBar" x="927" y="97" w="-1" h="-1" measuredW="296" measuredH="19" zOrder="4" locked="true" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <selectedIndex>-1</selectedIndex>
+        <text>Setup%2C%20System%20Log%2C%20Help%20%26%20Training%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::LinkBar" x="496" y="1121" w="-1" h="-1" measuredW="648" measuredH="19" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Leads%2C%20Accounts%2C%20Contacts%2C%20Opportunities%2C%20Reports%2C%20Dashboards%2C%20Documents%2C%20All%20Tabs</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="1732" y="263" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TabBar" x="121" y="170" w="1388" h="936" measuredW="806" measuredH="100" zOrder="7" locked="true" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>6</selectedIndex>
+        <text>Opportunity%20Overview%2C%20Contract%20Details%2C%20Roles/%20Responsibilities%2C%20Notes%20%26%20Attachment%2C%20Action%20Item%20%26%20Call%20Plan%2C%20Chatter%2C%20Teams%2C%20...</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
