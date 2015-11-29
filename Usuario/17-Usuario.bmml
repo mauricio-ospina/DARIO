@@ -1,90 +1,8 @@
-<mockup version="1.0" skin="sketch" measuredW="1186" measuredH="803" mockupW="1171" mockupH="801">
+<mockup version="1.0" skin="sketch" measuredW="1179" measuredH="809" mockupW="1179" mockupH="809">
   <controls>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::ModalScreen" x="16" y="2" w="1170" h="801" measuredW="320" measuredH="240" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="89" controlTypeID="__group__" x="373" y="254" w="555" h="304" measuredW="555" measuredH="304" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="__group__" x="15" y="20" w="1134" h="768" measuredW="1134" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="466" h="304" measuredW="466" measuredH="304" zOrder="0" locked="false" isInGroup="89">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="466" h="304" measuredW="466" measuredH="304" zOrder="0" locked="false" isInGroup="0">
-              <groupChildrenDescriptors>
-                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="3" w="453" h="301" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
-                  <controlProperties>
-                    <backgroundAlpha>0.5</backgroundAlpha>
-                    <borderColor>6710886</borderColor>
-                    <borderStyle>roundedSolid</borderStyle>
-                    <color>3355443</color>
-                  </controlProperties>
-                </control>
-                <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="12" y="13" w="427" h="280" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
-                  <controlProperties>
-                    <backgroundAlpha>1</backgroundAlpha>
-                    <borderColor>16777215</borderColor>
-                    <borderStyle>roundedSolid</borderStyle>
-                    <color>16777215</color>
-                  </controlProperties>
-                </control>
-                <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="20" y="25" w="410" h="244" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="0">
-                  <controlProperties>
-                    <borderColor>15658734</borderColor>
-                    <borderStyle>square</borderStyle>
-                  </controlProperties>
-                </control>
-                <control controlID="10" controlTypeID="__group__" x="441" y="0" w="25" h="25" measuredW="25" measuredH="25" zOrder="3" locked="false" isInGroup="0">
-                  <groupChildrenDescriptors>
-                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="15" h="14" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10">
-                      <controlProperties>
-                        <borderStyle>roundedSolid</borderStyle>
-                      </controlProperties>
-                    </control>
-                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="1" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="10">
-                      <controlProperties>
-                        <borderStyle>none</borderStyle>
-                        <color>16777215</color>
-                        <icon>CircledXIcon%7Csmall</icon>
-                      </controlProperties>
-                    </control>
-                  </groupChildrenDescriptors>
-                </control>
-              </groupChildrenDescriptors>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-        <control controlID="1" controlTypeID="__group__" x="62" y="90" w="309" h="34" measuredW="309" measuredH="34" zOrder="1" locked="false" isInGroup="89">
-          <groupChildrenDescriptors>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="0" locked="false" isInGroup="1">
-              <controlProperties>
-                <color>15658734</color>
-                <size>10</size>
-                <text>Examinar</text>
-              </controlProperties>
-            </control>
-            <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="71" y="5" w="180" h="29" measuredW="120" measuredH="20" zOrder="1" locked="false" isInGroup="1">
-              <controlProperties>
-                <size>10</size>
-                <text>RETEFUENTE%202015.pdf</text>
-              </controlProperties>
-            </control>
-            <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="254" y="0" w="-1" h="-1" measuredW="55" measuredH="28" zOrder="2" locked="false" isInGroup="1">
-              <controlProperties>
-                <color>16776960</color>
-                <size>10</size>
-                <text>Cargar</text>
-              </controlProperties>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Tooltip" x="358" y="32" w="197" h="58" measuredW="270" measuredH="33.1" zOrder="2" locked="false" isInGroup="89">
-          <controlProperties>
-            <size>14</size>
-            <text>Cargamos%20el%20documento%20de%20soporte</text>
-            <tooltipDirection>SW</tooltipDirection>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="90" controlTypeID="__group__" x="15" y="20" w="1134" h="768" measuredW="1134" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1134" h="768" measuredW="1134" measuredH="768" zOrder="0" locked="false" isInGroup="90">
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1134" h="768" measuredW="1134" measuredH="768" zOrder="0" locked="false" isInGroup="0">
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1134" h="768" measuredW="1134" measuredH="768" zOrder="0" locked="false" isInGroup="0">
               <groupChildrenDescriptors>
@@ -485,15 +403,128 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="919" y="127" w="173" h="-1" measuredW="115" measuredH="25" zOrder="1" locked="false" isInGroup="90">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="919" y="127" w="173" h="-1" measuredW="115" measuredH="25" zOrder="1" locked="false" isInGroup="0">
           <controlProperties>
             <state>up</state>
             <text>%20%20%20%20%20%20%20%20%202015</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="807" y="128" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="2" locked="false" isInGroup="90">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="807" y="128" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="2" locked="false" isInGroup="0">
           <controlProperties>
             <text>A%F1o%20a%20consultar%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="0" w="1179" h="809" measuredW="320" measuredH="240" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="__group__" x="226" y="310" w="833" h="171" measuredW="833" measuredH="171" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="806" h="171" measuredW="806" measuredH="171" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <controlName>Modal%20Dialog%20Toolkit</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="1" controlTypeID="__group__" x="0" y="0" w="806" h="171" measuredW="806" measuredH="171" zOrder="0" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="800" h="169" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <backgroundAlpha>0.5</backgroundAlpha>
+                    <borderColor>6710886</borderColor>
+                    <borderStyle>roundedSolid</borderStyle>
+                    <color>3355443</color>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="20" y="7" w="755" h="158" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <backgroundAlpha>1</backgroundAlpha>
+                    <borderColor>16777215</borderColor>
+                    <borderStyle>roundedSolid</borderStyle>
+                    <color>16777215</color>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="36" y="14" w="725" h="137" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <borderColor>15658734</borderColor>
+                    <borderStyle>square</borderStyle>
+                  </controlProperties>
+                </control>
+                <control controlID="10" controlTypeID="__group__" x="779" y="0" w="27" h="25" measuredW="27" measuredH="25" zOrder="3" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="27" h="8" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10">
+                      <controlProperties>
+                        <borderStyle>roundedSolid</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="1" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="10">
+                      <controlProperties>
+                        <borderStyle>none</borderStyle>
+                        <icon>CircledXIcon%7Csmall</icon>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="65" y="66" w="-1" h="-1" measuredW="101" measuredH="25" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Revisi%F3n%20Fiscal%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="166" y="64" w="-1" h="-1" measuredW="30" measuredH="29" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>13576743</color>
+            <size>16</size>
+            <text>NO</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="226" y="66" w="-1" h="-1" measuredW="124" measuredH="25" zOrder="3" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Senior%20Encargado%3A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="349" y="64" w="-1" h="-1" measuredW="164" measuredH="29" zOrder="4" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>13576743</color>
+            <size>16</size>
+            <text>SHEYNER%20JIMENEZ</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="544" y="66" w="-1" h="-1" measuredW="117" measuredH="25" zOrder="5" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Ingresos%20en%20UVT%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="669" y="64" w="164" h="29" measuredW="61" measuredH="29" zOrder="6" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>13576743</color>
+            <size>16</size>
+            <text>33.033</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="65" y="100" w="-1" h="-1" measuredW="88" measuredH="25" zOrder="7" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Periodo%20IVA%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="166" y="97" w="-1" h="-1" measuredW="145" measuredH="29" zOrder="8" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>13576743</color>
+            <size>16</size>
+            <text>CUATRIMESTRAL</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="366" y="99" w="-1" h="-1" measuredW="173" measuredH="25" zOrder="9" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Fecha%20Propuesta%20a%20Cierre%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="544" y="97" w="-1" h="-1" measuredW="131" measuredH="29" zOrder="10" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>13576743</color>
+            <size>16</size>
+            <text>5%20de%20Noviembre</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

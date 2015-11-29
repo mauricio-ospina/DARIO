@@ -341,13 +341,13 @@
                     <icon>SquaredPlusIcon%7Csmall</icon>
                   </controlProperties>
                 </control>
-                <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="7" y="223" w="1041" h="60" measuredW="746" measuredH="118" zOrder="13" locked="false" isInGroup="23">
+                <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="7" y="223" w="1041" h="60" measuredW="822" measuredH="118" zOrder="13" locked="false" isInGroup="23">
                   <controlProperties>
                     <align>left</align>
                     <alternateRowColor>15134199</alternateRowColor>
                     <borderStyle>none</borderStyle>
                     <color>15594478</color>
-                    <text>A%D1O%2CINGRESOS%2CRETEFUENTE%2C%20IVA%2C%20RET%20CREE%2C%20ICA%20o%20RETEICA%20BOGOTA%2C%20ICA%20o%20RETEICA%20OTROS%0A2015%2C%2C11-nov%2CNo%20aplica%2CNo%20Aplica%2C19-nov%2CNo%20Aplica%0A%20%0A%20%0A%7B10%2C25%2C%2025%2C%2025%2C%2025%2C%2025%7D</text>
+                    <text>A%D1O%2CINGRESOS%2CRETEFUENTE%2C%20IVA%2C%20RET%20CREE%2C%20ICA%20o%20RETEICA%20BOGOTA%2C%20ICA%20o%20RETEICA%20OTROS%2C%20DETALLE%0A2015%2C%2C11-nov%2CNo%20aplica%2CNo%20Aplica%2C19-nov%2CNo%20Aplica%2C%0A%20%0A%20%0A%7B10%2C25%2C%2025%2C%2025%2C%2025%2C%2025%2C%2010%2C%2010%7D</text>
                   </controlProperties>
                 </control>
                 <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="38" y="25" w="491" h="-1" measuredW="79" measuredH="29" zOrder="14" locked="false" isInGroup="23">
@@ -377,31 +377,36 @@
                 <text>%3C%3C%2C%20%3C%20%2C%201%2C%202%2C%203%2C%204%2C%205%2C%206%2C7%2C%208%2C%209%2C%2010%2C%20%3E%2C%20%3E%3E</text>
               </controlProperties>
             </control>
-            <control controlID="25" controlTypeID="com.balsamiq.mockups::Link" x="137" y="406" w="-1" h="-1" measuredW="104" measuredH="25" zOrder="4" locked="false" isInGroup="0">
+            <control controlID="25" controlTypeID="com.balsamiq.mockups::Link" x="121" y="406" w="-1" h="-1" measuredW="104" measuredH="25" zOrder="4" locked="false" isInGroup="0">
               <controlProperties>
                 <text>%24%20907.842.000</text>
               </controlProperties>
             </control>
-            <control controlID="26" controlTypeID="com.balsamiq.mockups::Link" x="339" y="405" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="5" locked="false" isInGroup="0">
+            <control controlID="26" controlTypeID="com.balsamiq.mockups::Link" x="305" y="405" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="5" locked="false" isInGroup="0">
               <controlProperties>
                 <text>Documento</text>
               </controlProperties>
             </control>
-            <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="818" y="404" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="6" locked="false" isInGroup="0">
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="750" y="406" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="6" locked="false" isInGroup="0">
               <controlProperties>
                 <text>Documento</text>
               </controlProperties>
             </control>
-            <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="324" y="403" w="93" h="30" measuredW="29" measuredH="40" zOrder="7" locked="false" isInGroup="0">
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="290" y="403" w="93" h="30" measuredW="29" measuredH="40" zOrder="7" locked="false" isInGroup="0">
               <controlProperties>
                 <text/>
               </controlProperties>
             </control>
-            <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="396" y="316" w="166" h="92" measuredW="349" measuredH="66" zOrder="8" locked="false" isInGroup="0">
+            <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="362" y="316" w="166" h="92" measuredW="349" measuredH="33.1" zOrder="8" locked="false" isInGroup="0">
               <controlProperties>
                 <size>14</size>
                 <text>Adicionamos%20el%20documento%20de%20la%20RETEFUENTE</text>
                 <tooltipDirection>SW</tooltipDirection>
+              </controlProperties>
+            </control>
+            <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="1033" y="406" w="-1" h="-1" measuredW="27" measuredH="25" zOrder="9" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Ver</text>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>

@@ -279,6 +279,39 @@
                         <text>%2C*Cliente*%20%5E%5Cr%5Cr%5Cr%2C*N.I.T.*%20%5E%5Cr%5Cr%5Cr%2C*Correo%20Electr%F3nico*%20%5E%5Cr%5Cr%5Cr%2C*Telefono*%20%5E%5Cr%5Cr%5Cr%0A%2CAIRLOGISTIX%20SAS%2C900.434.102%2Cmacey_lehner@kautzer.biz%2C1-974-278-0264%20x950%0A%2CASTRIS%20FINANCE%20COLOMBIA%20SAS%2C900.638.619%2Cladarius@fahey.net%2C%28661%29%20616-8262%0A%2CBOUYGUES%20CONSTRUCCIONES%20COLOMBA%20SAS%2C900.656.604%2Cgardner@rogahnswift.name%2C278-932-0477%0A%2CBPO%20GESTORIA%20SAS%2C900.665.688%2Celeazar@gutmann.info%2C%28511%29%20137-6771%20x7139%0A%2CBPO%20SAS%2C900.598.697%2Ckenton@hauck.org%2C672.156.9446%20x605%0A%2C%5Cr%5Cr%5Cr%5Cr%0A%2CCELCITE%20COLOMBIA%20S.A.S%20EN%20LIQUIDACION%2C900.574.069%2Cschuyler_vonrueden@langhartmann.name%2C%28165%29%20946-1328%20x2274%0A%2CCHARIOT%20%26%20CASTLE%2C900.777.451%2Cnannie@jerdekerluke.net%2C1-999-928-2537%20x10877%0A%2CCHICPLACE%20COLOMBIA%20SAS%2C900.756.462%2Cmaximillian@rogahn.com%2C366-302-3325%20x25399%0A%2CCLEARFORD%20COLOMBIA%A0HOLDING%20SAS%2C900.593.581%2Cgerald@schamberger.com%2C531.054.6386%20x494%0A%2CCLEARFORD%20INDUSTRIES%20COLOMBIA%20S.A.S%2C900.570.069%2Calyce_leuschke@prohaska.org%2C629-899-2863%0A%2CCYNGULAR%20SAS%2C900.493.030%2Ctamia_prohaska@harvey.info%2C651.625.0874%0A%2CEXPOR%20MANIQUIS%A0DE%20COLOMBIA%20SAS%2C900.633.463%2Cseth_treutel@kiehn.com%2C%28806%29%20968-5527%20x75501%0A%2CGARRIGUES%20COLOMBIA%20SAS%2C900.609.342%2Cskye_emmerich@mayer.name%2C%28158%29%20960-5598%20x2050%0A%2CGESTION%20CONSULTIVA%20SAS%2C900.805.606%2Calba@gleichner.biz%2C340.396.3830%0A%2CHERDOIZA%20CRESPO%20CONSTRUCCIONES%20COLOMBIA%20SAS%2C900.815.680%2Cclotilde@haag.net%2C730.901.4641%0A%2CHERDOIZA%20CRESPO%20CONSTRUCCIONES%20SA%20SUCURSAL%20COLOMBIANA%2C900.815.676%2Cbaron@goldner.biz%2C%28957%29%20059-5755%20x50219%0A%2CHMC%20CAPITAL%20COLOMBIA%20SAS%2C900.824.129%2Cedwina@runterosenbaum.biz%2C%28513%29%20191-8527%0A%2CHUMAN%20PARTNERS%20SOLUTIONS%20SAS%2C900.545.664%2Cfaustino.shields@kuhic.info%2C414-418-0658%20x793%0A%2CIBERMAN%20COLOMBIA%20SAS%2C900.700.298%2Cpete_jast@lind.biz%2C%28413%29%20543-2982%20x708%0A%2CINQLAB%20SAS%2C900.633.093%2Cadan@kreigerruecker.biz%2C1-988-558-2550%20x10507%0A%7B3%2C50%2C10%2C25%7D</text>
                       </controlProperties>
                     </control>
+                    <control controlID="1" controlTypeID="__group__" x="7" y="223" w="1041" h="60" measuredW="1041" measuredH="60" zOrder="1" locked="false" isInGroup="0">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="1041" h="60" measuredW="831" measuredH="118" zOrder="0" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <align>left</align>
+                            <alternateRowColor>15134199</alternateRowColor>
+                            <borderStyle>none</borderStyle>
+                            <color>15594478</color>
+                            <text>A%D1O%2CINGRESOS%2CRETEFUENTE%2C%20IVA%2C%20RET%20CREE%2C%20ICA%20o%20RETEICA%20BOGOTA%2C%20ICA%20o%20RETEICA%20OTROS%2C%20DETALLES%0A2015%2C%2C11-nov%2CNo%20aplica%2CNo%20Aplica%2C19-nov%2CNo%20Aplica%0A%20%0A%20%0A%7B10%2C25%2C%2025%2C%2025%2C%2025%2C%2025%2C%2010%2C%2010%7D</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="118" y="29" w="-1" h="-1" measuredW="28" measuredH="25" zOrder="1" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>%24%200</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="260" y="29" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="2" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Documento</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="697" y="29" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="3" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Documento</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="986" y="29" w="-1" h="-1" measuredW="27" measuredH="25" zOrder="4" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <text>Ver</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
                   </groupChildrenDescriptors>
                 </control>
                 <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="4" y="67" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="23">
@@ -341,31 +374,22 @@
                     <icon>SquaredPlusIcon%7Csmall</icon>
                   </controlProperties>
                 </control>
-                <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="7" y="223" w="1041" h="60" measuredW="746" measuredH="118" zOrder="13" locked="false" isInGroup="23">
-                  <controlProperties>
-                    <align>left</align>
-                    <alternateRowColor>15134199</alternateRowColor>
-                    <borderStyle>none</borderStyle>
-                    <color>15594478</color>
-                    <text>A%D1O%2CINGRESOS%2CRETEFUENTE%2C%20IVA%2C%20RET%20CREE%2C%20ICA%20o%20RETEICA%20BOGOTA%2C%20ICA%20o%20RETEICA%20OTROS%0A2015%2C%2C11-nov%2CNo%20aplica%2CNo%20Aplica%2C19-nov%2CNo%20Aplica%0A%20%0A%20%0A%7B10%2C25%2C%2025%2C%2025%2C%2025%2C%2025%7D</text>
-                  </controlProperties>
-                </control>
-                <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="38" y="25" w="491" h="-1" measuredW="79" measuredH="29" zOrder="14" locked="false" isInGroup="23">
+                <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="38" y="25" w="491" h="-1" measuredW="79" measuredH="29" zOrder="13" locked="false" isInGroup="23">
                   <controlProperties>
                     <text/>
                   </controlProperties>
                 </control>
-                <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="540" y="25" w="92" h="-1" measuredW="79" measuredH="29" zOrder="15" locked="false" isInGroup="23">
+                <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="540" y="25" w="92" h="-1" measuredW="79" measuredH="29" zOrder="14" locked="false" isInGroup="23">
                   <controlProperties>
                     <text/>
                   </controlProperties>
                 </control>
-                <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="640" y="25" w="245" h="-1" measuredW="79" measuredH="29" zOrder="16" locked="false" isInGroup="23">
+                <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="640" y="25" w="245" h="-1" measuredW="79" measuredH="29" zOrder="15" locked="false" isInGroup="23">
                   <controlProperties>
                     <text/>
                   </controlProperties>
                 </control>
-                <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="893" y="25" w="155" h="-1" measuredW="79" measuredH="29" zOrder="17" locked="false" isInGroup="23">
+                <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="893" y="25" w="155" h="-1" measuredW="79" measuredH="29" zOrder="16" locked="false" isInGroup="23">
                   <controlProperties>
                     <text/>
                   </controlProperties>
@@ -377,44 +401,29 @@
                 <text>%3C%3C%2C%20%3C%20%2C%201%2C%202%2C%203%2C%204%2C%205%2C%206%2C7%2C%208%2C%209%2C%2010%2C%20%3E%2C%20%3E%3E</text>
               </controlProperties>
             </control>
-            <control controlID="25" controlTypeID="com.balsamiq.mockups::Link" x="167" y="406" w="-1" h="-1" measuredW="28" measuredH="25" zOrder="4" locked="false" isInGroup="0">
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="130" y="402" w="105" h="37" measuredW="29" measuredH="40" zOrder="4" locked="false" isInGroup="0">
               <controlProperties>
-                <text>%24%200</text>
+                <text/>
               </controlProperties>
             </control>
-            <control controlID="26" controlTypeID="com.balsamiq.mockups::Link" x="339" y="405" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="5" locked="false" isInGroup="0">
+            <control controlID="29" controlTypeID="com.balsamiq.mockups::Tooltip" x="185" y="320" w="146" h="89" measuredW="318" measuredH="33.1" zOrder="5" locked="false" isInGroup="0">
               <controlProperties>
-                <text>Documento</text>
-              </controlProperties>
-            </control>
-            <control controlID="27" controlTypeID="com.balsamiq.mockups::Link" x="818" y="404" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="6" locked="false" isInGroup="0">
-              <controlProperties>
-                <text>Documento</text>
+                <size>14</size>
+                <text>Seleccionamos%20para%20Ingresar%20los%20Ingresos</text>
+                <tooltipDirection>SW</tooltipDirection>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="919" y="127" w="173" h="-1" measuredW="115" measuredH="25" zOrder="2" locked="false" isInGroup="80">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="919" y="127" w="173" h="-1" measuredW="115" measuredH="25" zOrder="1" locked="false" isInGroup="80">
           <controlProperties>
             <state>up</state>
             <text>%20%20%20%20%20%20%20%20%202015</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="807" y="128" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="3" locked="false" isInGroup="80">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="807" y="128" w="-1" h="-1" measuredW="107" measuredH="25" zOrder="2" locked="false" isInGroup="80">
           <controlProperties>
             <text>A%F1o%20a%20consultar%3A</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Tooltip" x="185" y="320" w="146" h="89" measuredW="318" measuredH="33.1" zOrder="4" locked="false" isInGroup="80">
-          <controlProperties>
-            <size>14</size>
-            <text>Seleccionamos%20para%20Ingresar%20los%20Ingresos</text>
-            <tooltipDirection>SW</tooltipDirection>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::CallOut" x="130" y="402" w="105" h="37" measuredW="29" measuredH="40" zOrder="1" locked="false" isInGroup="80">
-          <controlProperties>
-            <text/>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
