@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" measuredW="1057" measuredH="782" mockupW="1024" mockupH="768">
+<mockup version="1.0" skin="sketch" measuredW="1057" measuredH="778" mockupW="1024" mockupH="768">
   <controls>
-    <control controlID="59" controlTypeID="__group__" x="33" y="14" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="__group__" x="33" y="10" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="59">
           <groupChildrenDescriptors>
@@ -299,12 +299,13 @@
             </control>
             <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="399" y="234" w="-1" h="-1" measuredW="201" measuredH="28" zOrder="6" locked="false" isInGroup="0">
               <controlProperties>
+                <color>16750848</color>
                 <text>Ingresar%20como%20Administrador</text>
               </controlProperties>
             </control>
             <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="399" y="267" w="201" h="28" measuredW="162" measuredH="28" zOrder="7" locked="false" isInGroup="0">
               <controlProperties>
-                <color>16770457</color>
+                <color>16777215</color>
                 <text>Ingresar%20como%20Usuario</text>
               </controlProperties>
             </control>
@@ -315,10 +316,10 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Tooltip" x="587" y="183" w="125" h="89" measuredW="241" measuredH="33.1" zOrder="1" locked="false" isInGroup="59">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Tooltip" x="586" y="152" w="125" h="89" measuredW="280" measuredH="89" zOrder="1" locked="false" isInGroup="59">
           <controlProperties>
             <size>14</size>
-            <text>Ingresa%20al%20formulario%20principal</text>
+            <text>Ingresa%20al%20formulario%20Administrador</text>
             <tooltipDirection>SW</tooltipDirection>
           </controlProperties>
         </control>
